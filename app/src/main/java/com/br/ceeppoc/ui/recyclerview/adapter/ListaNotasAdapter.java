@@ -1,15 +1,11 @@
 package com.br.ceeppoc.ui.recyclerview.adapter;
 
 import android.content.Context;
-import android.database.DataSetObserver;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.BaseAdapter;
-import android.widget.ListAdapter;
 import android.widget.TextView;
-
-import androidx.recyclerview.widget.RecyclerView;
 
 import com.br.ceeppoc.R;
 import com.br.ceeppoc.model.Nota;
